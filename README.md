@@ -1,6 +1,11 @@
 # Security::Osint
 
-TODO: Write a gem description
+It's cause is helping others to fetch Security related status-flags (mainly for threats) around any software/topic.
+Security OSINT is an initiation to support the greater cause.
+
+## Usage
+
+    $ security-osint --threat <software-name>
 
 ## Installation
 
@@ -15,10 +20,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install security-osint
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
